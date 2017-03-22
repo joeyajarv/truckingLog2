@@ -1,0 +1,30 @@
+{
+  "name": "PWA-Trucker",
+  "version": "0.0.1",
+  "private": true,
+  "description": "For logging trip data",
+  "main": "bin/server",
+  "keywords": [
+    "spa",
+    "pwa"
+  ],
+  "author": {
+    "name": "Joey and Anne"
+  },
+  "scripts": {
+    "start": "node bin/server"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "engines": {
+    "node": ">= 7.6.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "latest",
+    "formidable": "latest",
+    "nedb": "latest",
+    "simple-oauth2": "latest"
+  }
+}
