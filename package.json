@@ -24,7 +24,6 @@
   "dependencies": {
     "ejs": "latest",
     "formidable": "latest",
-    "nedb": "latest",
-    "simple-oauth2": "latest"
+    "nedb": "latest"
   }
 }
