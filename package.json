@@ -18,7 +18,7 @@
     "type": "git"
   },
   "engines": {
-    "node": ">= 6.4.0"
+    "node": ">= 6.5.0"
   },
   "license": "MIT",
   "dependencies": {
