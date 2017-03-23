@@ -23,6 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "ejs": "latest",
+    "foobar": "^1.1.0",
     "formidable": "latest",
     "nedb": "latest"
   }
